@@ -1,0 +1,22 @@
+{
+  "contact": [
+    {
+      "name": "Bruce Wayne",
+      "phone": 981886537,
+      "email": "brue45@yahoo.com",
+      "address": "gotham street 2 palace"
+    },
+    {
+      "name": "Clark Kent",
+      "phone": 9818865667,
+      "email": "kent56@yahoo.com",
+      "address": "time square street 4 house 400"
+    },
+    {
+      "name": "James Gordon",
+      "phone": 45347657868,
+      "email": "gcpd@gotham.com@gmail.com",
+      "address": "39/A wayne street"
+    }
+  ]
+}

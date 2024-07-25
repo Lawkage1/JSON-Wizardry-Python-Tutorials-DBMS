@@ -1,0 +1,25 @@
+{
+  "states": [
+    {
+      "area": "gotham",
+      "names": "bruce wayne"
+    },
+    {
+      "area": "new york city",
+      "names": "clark kent"
+    },
+    {
+      "area": "stark industries",
+      "names": "tony stark"
+    },
+    {
+      "area": "manhattan",
+      "names": "steve rogers"
+    }
+  ]
+}
+{
+  "area": "new york city",
+  "area_code": "11223344",
+  "name": "peter parker"
+}
